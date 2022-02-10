@@ -1,3 +1,3 @@
 # 66---Live-Tracking-Detector
 
-A live tracking detector written using the MediaPipe and cv2 modules.
+A hand and face detector written using the MediaPipe and cv2 modules.
